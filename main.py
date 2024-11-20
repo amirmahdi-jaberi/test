@@ -1,4 +1,3 @@
-vercion = '1.1.1'
-vercion = '1.1.2'
-vercion = '1.1.3'
-vercion = '1.1.4'
+vercion1 = '1.1.1'
+vercion2 = '1.1.2'
+version3 = '2.1.1'
